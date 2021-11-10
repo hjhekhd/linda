@@ -4,4 +4,34 @@
     <pattern>*</pattern>
     <template>I have no answer for that.</template>
   </category>
+<category>
+    <pattern>help me</pattern>
+    <template>no</template>
+</category>
+<category>
+    <pattern>i no like</pattern>
+    <template>im sad bully</template>
+</category>
+<category>
+    <pattern>AHHHHHHHHHH</pattern>
+    <template>flamgo</template>
+</category>
+<category>
+    <pattern>eueuueueueueue</pattern>
+    <template>what the ####</template>
+</category>
+<category>
+    <pattern>uwu</pattern>
+    <template>EW EW EW
+
+
+
+
+
+</template>
+</category>
+<category>
+    <pattern>shut the fuck up</pattern>
+    <template>no u</template>
+</category>
 </aiml>
